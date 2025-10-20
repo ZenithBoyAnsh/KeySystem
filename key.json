@@ -13,6 +13,7 @@
     "expiresAt": "2500-12-31",
     "allowOffline": true
   },
+  
   {
     "id": "bb18a8c4f286bda6",
     "username": "obitoxcheat",
@@ -25,6 +26,13 @@
     "username": "obitoxcheat",
     "password": "obito3",
     "expiresAt": "2025-10-21",
+    "allowOffline": true
+  },
+  {
+    "id": "a2ff534e16210326",
+    "username": "obitoxcheat",
+    "password": "akmal",
+    "expiresAt": "2025-0-22",
     "allowOffline": true
   },
   {
