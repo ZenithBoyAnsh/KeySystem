@@ -21,6 +21,13 @@
     "allowOffline": true
   },
   {
+    "id": "bb18a8c4f286bda6",
+    "username": "Rexy",
+    "password": "obito",
+    "expiresAt": "2025-10-22",
+    "allowOffline": true
+  },
+  {
     "id": "android_device_id_2",
     "username": "user2",
     "password": "pass2",
